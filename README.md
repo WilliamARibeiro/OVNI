@@ -1,2 +1,0 @@
-# OVNI
-Disco voador.
