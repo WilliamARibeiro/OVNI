@@ -99,10 +99,11 @@ body{
   animation: luzes 1.5s infinite alternate linear;
 }
 
-.audio {
-    margin-left: 10rem;
-    margin-top: -2rem;
-    
+.rodape audio {
+   displey: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  
   }
 
 @keyframes luzes_ovni{
