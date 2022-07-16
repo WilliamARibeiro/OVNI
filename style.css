@@ -99,6 +99,12 @@ body{
   animation: luzes 1.5s infinite alternate linear;
 }
 
+.audio {
+    margin-left: 80%;
+    margin-top: -2%;
+    
+  }
+
 @keyframes luzes_ovni{
   0% { transform: translate(0, -50%);}
   100% { transform: translate(-19.4, -50%);}
