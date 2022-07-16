@@ -103,6 +103,8 @@ body{
    displey: flex;
   flex-direction: row;
   align-items: flex-start;
+  padding-top: 50rem;
+  paddin-left: 50rem;
   
   }
 
